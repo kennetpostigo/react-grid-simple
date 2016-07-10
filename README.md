@@ -27,16 +27,16 @@ function App (props) {
   return (
     <Container fluid={true}>
       <Row>
-        <Col xs={3}sm={3}lg={5} md={9}>
+        <Col xs={3} sm={3} lg={5} md={9}>
           <p>Waddup</p>
         </Col>
-        <Col xs={2}sm={3}lg={1} md={1}>
+        <Col xs={2} sm={3} lg={1} md={1}>
           <p>Whats Poppin</p>
         </Col>
-        <Col xs={2}sm={3}lg={5} md={1}>
+        <Col xs={2} sm={3} lg={5} md={1}>
           <p>Gangsta Grillz</p>
         </Col>
-        <Col xs={5}sm={3}lg={1} md={1}>
+        <Col xs={5} sm={3} lg={1} md={1}>
           <p>Pimpin</p>
         </Col>
       </Row>
