@@ -21,7 +21,7 @@ So if you have bootstrap already on your project you don't need the css from `re
 ```js
 import React from 'react';
 import { render } from 'react-dom';
-import { Container, Row, Col } from './../dist/react-grid-simple.min.js';
+import { Container, Row, Col } from 'react-grid-simple';
 
 function App (props) {
   return (
