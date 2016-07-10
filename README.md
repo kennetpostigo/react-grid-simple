@@ -1,5 +1,6 @@
 # react-grid-simple
 > Based on Bootstrap 3 Grid System
+
 [![version](https://img.shields.io/npm/v/react-grid-simple.svg?style=flat-square)](http://npm.im/react-grid-simple)
 [![downloads](https://img.shields.io/npm/dm/react-grid-simple.svg?style=flat-square)](http://npm-stat.com/charts.html?package=react-grid-simple&from=2016-06-13)
 [![MIT License](https://img.shields.io/npm/l/react-grid-simple.svg?style=flat-square)](http://opensource.org/licenses/MIT)
