@@ -8,8 +8,4 @@ function Row (props) {
   );
 }
 
-Row.propTypes = {
-  children: React.PropTypes.element
-};
-
 export default Row;

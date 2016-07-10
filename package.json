@@ -1,11 +1,11 @@
 {
   "name": "react-grid-simple",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "grid system",
-  "main": "./dist/react-simple-grid.min.js",
+  "main": "./dist/react-grid-simple.min.js",
   "scripts": {
-    "build:develop": "cross-env NODE_ENV=development webpack src/index.js dist/react-simple-grid.js",
-    "build:production": "cross-env NODE_ENV=production webpack src/index.js dist/react-simple-grid.min.js",
+    "build:develop": "cross-env NODE_ENV=development webpack src/index.js dist/react-grid-simple.js",
+    "build:production": "cross-env NODE_ENV=production webpack src/index.js dist/react-grid-simple.min.js",
     "build:publish": "npm run build:develop && npm run build:production",
     "build-watch": "npm run webpack --watch"
   },

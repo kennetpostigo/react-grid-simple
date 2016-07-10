@@ -4,7 +4,7 @@ var env = process.env.NODE_ENV;
 var config = {
 
   output: {
-    library: 'reactSimpleGrid',
+    library: 'reactGridSimple',
     libraryTarget: 'umd'
   },
 

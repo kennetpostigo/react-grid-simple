@@ -9,8 +9,7 @@ function Container (props) {
 }
 
 Container.propTypes = {
-  fluid: React.PropTypes.bool,
-  children: React.PropTypes.element
+  fluid: React.PropTypes.bool
 };
 
 export default Container;
