@@ -1,6 +1,6 @@
 {
   "name": "react-grid-simple",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "grid system",
   "main": "./dist/react-simple-grid.min.js",
   "scripts": {

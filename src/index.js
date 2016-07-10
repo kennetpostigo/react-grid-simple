@@ -1,6 +1,6 @@
-import Container from './Container.js';
-import Row from './Row.js';
-import Col from './Col.js';
+import Container from './grid/Container.js';
+import Row from './grid/Row.js';
+import Col from './grid/Col.js';
 
 export {
   Container,
