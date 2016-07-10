@@ -1,6 +1,6 @@
 {
   "name": "react-grid-simple",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "grid system",
   "main": "./dist/react-simple-grid.min.js",
   "scripts": {
@@ -19,6 +19,10 @@
     "url": "https://github.com/kennetpostigo/react-grid-simple/issues"
   },
   "homepage": "https://github.com/kennetpostigo/react-grid-simple#readme",
+  "peerDependencies": {
+    "react": "^0.14.0 || ^15.0.0",
+    "react-dom": "^0.14.0 || ^15.0.0"
+  },
   "devDependencies": {
     "babel-cli": "6.10.1",
     "babel-core": "6.9.1",
